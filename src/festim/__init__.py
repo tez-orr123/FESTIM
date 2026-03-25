@@ -82,3 +82,7 @@ from .subdomain.volume_subdomain import (
     find_volume_from_id,
 )
 from .trap import Trap
+
+
+print("Hi, this is Tez's custom FESTIM version")
+print("-"*50)
