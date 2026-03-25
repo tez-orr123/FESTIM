@@ -85,4 +85,5 @@ from .trap import Trap
 
 
 print("Hi, this is Tez's custom FESTIM version")
-print("-"*50)
+print("-" * 50)
+print("|" * 50)
